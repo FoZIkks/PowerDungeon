@@ -2,9 +2,8 @@
 
 PowerDungeon est un jeu d'aventure un peu loufoque développé entièrement en Powershell par Eazeon.
 
-#################
+
 # Fonctionnement
-#################
 
 Afin d'exécuter ce jeu, il vous faut :
 - Powershell
@@ -16,9 +15,8 @@ ATTENTION
 Il est impératif de laisser le jeu a son emplacement, si vous le déplacez il ne trouvera pas de fichier de sauvegarde et recommencera à zéro.
 Si vous souhaitez relancer une partie supprimez simplement le fichier .csv pour forcer le jeu a lancer une nouvelle partie.
 
-#################
 # A propos 
-#################
+
 
 A cause de mon travail j'ai commencé à apprendre l'UI en Powershell et une fois mon travail finit, je me suis retrouvé avec ces connaissances à me dire : "Ok et maintenant je fais quoi de ce savoir?"
 
